@@ -1,13 +1,13 @@
-package pruebaBackend.pruebaBackend;
+package pruebabackend.pruebabackend;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class PruebaBackendApplication {
+public class PruebabackendApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(PruebaBackendApplication.class, args);
+		SpringApplication.run(PruebabackendApplication.class, args);
 	}
 
 }
